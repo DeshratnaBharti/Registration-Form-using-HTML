@@ -38,7 +38,7 @@ It’s designed as a beginner-friendly project and showcases:
 3. Open `index.html` in any browser (Chrome, Firefox, Edge, etc).
 
 ```bash
-git clone https://github.com/your-username/responsive-form.git
+git clone https://github.com/DeshratnaBharti/responsive-form.git
 cd responsive-form
 open index.html
 ```
